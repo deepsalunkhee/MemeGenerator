@@ -1,3 +1,6 @@
+### Note:
+- This was my first opensource contribution ever , for Hacktoberfest . as I dont plan to make any further changes here I am archiving this repo ✌🏽
+
 # Meme Generator App  
 <h1>This  is a meme generator app where users can see the meme images select and edit the memes write the context of the meme and export it as a PNG in your local system.</h1>
 <p>This repo is built on the react and  raw  css .  </p>
